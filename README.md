@@ -24,7 +24,7 @@ A cutting-edge web application that uses advanced AI technology to enhance and r
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pimatis/vining.git
    cd vining
    ```
 
